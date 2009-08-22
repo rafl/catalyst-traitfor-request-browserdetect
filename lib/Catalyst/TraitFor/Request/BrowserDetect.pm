@@ -5,7 +5,6 @@ use Moose::Role;
 use aliased 'HTTP::BrowserDetect';
 use namespace::autoclean;
 
-
 =head1 SYNOPSIS
 
     package MyApp;
